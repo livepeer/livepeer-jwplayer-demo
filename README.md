@@ -18,7 +18,7 @@ For more information on the API and the endpoints availble, please check the [Li
 
 You can enter this API key in the demo app.
 
-### Steps to acquire a Livepeer.com API key:
+### Steps to acquire a JWPlayer.com API key:
 
 - Sign up/ Log in on JWPlayer
 - On the top right corner click on settings (cogwheel icon).
