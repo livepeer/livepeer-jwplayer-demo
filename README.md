@@ -1,4 +1,4 @@
-# Livepeer.com API Demo
+# Livepeer API Demo
 
 This is a demo app to showcase how to use Livepeer.com APIs to create a live stream and play with JWPlayer. The app enables the user to create a stream and play it back via JWPlayer while tracking video analytics which can be accessed on the JWPlayer Dashboard.
 
